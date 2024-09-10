@@ -61,7 +61,7 @@
     "node-html-parser": "^5.3.3",
     "nostr-relaypool": "^0.6.28",
     "numeral": "^2.0.6",
-    "path-to-regexp": "^6.1.0",
+    "path-to-regexp": "^8.0.0",
     "qrcode": "^1.5.1",
     "qs": "^6.10.3",
     "query-string": "^6.13.1",
